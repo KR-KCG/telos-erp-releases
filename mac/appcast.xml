@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>TELOS ERP</title>
         <item>
-            <title>1.1.4</title>
-            <pubDate>Wed, 18 Nov 2026 18:12:39 +0900</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <title>1.0.0</title>
+            <pubDate>Thu, 19 Nov 2026 10:10:50 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/KR-KCG/telos-erp-releases/releases/download/mac-v1.1.4/TELOS-ERP-macOS-1.1.4.zip" length="19570762" type="application/octet-stream" sparkle:edSignature="9shidmwGvvhmYDdHgO8Oy59w0h6pPMfAv9qD7Fli2mxeGw+hVXzGwSFNTlPhKktJXynS3YlTHZfWPa7RJYVQCw=="></enclosure>
+            <enclosure url="https://github.com/KR-KCG/telos-erp-releases/releases/download/mac-v1.0.0/TELOS-ERP-macOS-1.0.0.zip" length="19570755" type="application/octet-stream" sparkle:edSignature="Gmv9bDjG+z59n9D1VaqccO1BHZPOh3Cb7WynLIODIXTM3wXrPzqkK0KxCw5v9zNJtAu++694Ob6juIthRuIOBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: aqh2p/I+3F9AguPihdUqdIrQ9geQG1VOZGi50hN7I5GjjYGwkfVGRVEBZ6x2SV/qS2W9Zrzur6MVn7FCtE5qDA==
+edSignature: wQYzSbwp72UkNfSwhuLDl4nCppYSxAfp3RHx4akPCJfrd0WpG2fohX9qL4VjMBpfy7cIAFMNcuZiX6pEah+BBg==
 length: 1062
 -->
